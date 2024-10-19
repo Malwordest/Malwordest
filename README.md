@@ -1,4 +1,4 @@
-### Welcome to my readme.MD!
+<img src="mal.png" alt="mal" style="width:64px;height:64px;"> **Welcome to my readme.MD!**
 
 First things off. I'm kinda careless and I upload video whenever i wanted to.
 I ain't using social media much besides YouTube and Discord. 
