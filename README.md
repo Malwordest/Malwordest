@@ -1,14 +1,9 @@
 ### Welcome to my readme.MD!
-<button class="button__base" type="button">
-  <span class="button__label">Click me!</span>
-  <svg class="button__icon icon-class">
-      <use xlink:href="#icon-class"></use>
-    </svg>
-</button>
-
 
 First things off. I'm kinda careless and I upload video whenever i wanted to.
 I ain't using social media much besides YouTube and Discord. 
+
+And for that original account ([@MakanNuggetz](https://github.com/MakanNuggetz)), I'm leaving that account and decided to start from scratch
 
 I watched Anime and read mangas these days and I love it! especially The Quintessial Quintdruplets (五等分の花嫁)
 
