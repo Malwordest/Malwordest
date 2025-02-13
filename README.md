@@ -16,7 +16,8 @@ I'll going to show you which software i use to make content
 |--|--|--|--|
 |2022- Early 2023| Vegas Pro 14|Paint(dot)NET 4.0| VMware Workstation 14
 |Early 2023 - End 2023| Vegas Pro 15|Paint(dot)NET 4.3 | VMware Workstation 15.5.6
-|2024 (Now) | Premiere Pro CC 2014|Paint(dot)NET 5.0.6 | VMware Workstation 15.5.7
+|2024 | Premiere Pro CC 2014|Paint(dot)NET 5.0.6 | VMware Workstation 15.5.7
+|2025 - Early | Kdenlive (Linux) | GIMP | VMware Workstation 17.6.2
 
 <small>
 Note: I upgrade my software a little
