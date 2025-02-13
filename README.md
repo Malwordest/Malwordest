@@ -5,8 +5,6 @@ I ain't using social media much besides YouTube and Discord.
 
 And for that original account ([@MakanNuggetz](https://github.com/MakanNuggetz)), I'm leaving that account and decided to start from scratch
 
-I watched Anime and read mangas these days and I love it! especially The Quintessial Quintdruplets (五等分の花嫁) (Kinda dissapointed with the ending to be honest)
-
 Actually, I can't really use any resolution besides 1366x768 (WXGA), It's perfect. Possibly because I'm getting used to it. This time I'm trying to used using 1080p. which I'm really trying to, And using multiple monitors is a challenge. Well, I got a wide workspace but I used to minimize programs i open a lot to reducing lags (it's a habit)
 
 And editing was my biggest nightmare ever, since it took time and effort. My [latest video](https://www.youtube.com/watch?v=rPyCaRE0jtc) i made (as it is now) edited in two days, 1080p video was really fun to edit but it's killing my computer a little
